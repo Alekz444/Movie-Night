@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133661677751",
+    "project_id": "movie-night-7e7a0",
+    "storage_bucket": "movie-night-7e7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133661677751:android:1be0a3cd92d0992ee91532",
+        "android_client_info": {
+          "package_name": "com.alexandra.movienight.movie_night"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133661677751-0qhdru6k0qc7sf1209e4kjur8fl6cu9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA_QIlrnb-XySJfq8GmluJUw-UsyPsnSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133661677751-0qhdru6k0qc7sf1209e4kjur8fl6cu9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
